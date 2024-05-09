@@ -1,0 +1,14 @@
+.background {
+  height: 30rem;
+  margin: 40px 7%;
+  border-radius: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.421),
+    0 6px 20px 0 rgba(0, 0, 0, 0.438);
+  overflow: hidden;
+}
+.background img {
+  cursor: pointer;
+  height: 30rem;
+  object-fit: fill;
+  width: 100%;
+}
